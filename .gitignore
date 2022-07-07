@@ -8,5 +8,8 @@ coverage
 ormconfig.json
 dist
 pnpm-lock.yaml
+.slintrc
+.slintignore
+.editorconfig
 uploads/*
 !uploads/.gitkeep
